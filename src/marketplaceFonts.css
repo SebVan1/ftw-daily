@@ -95,7 +95,6 @@
     @media (--viewportMedium) {
       font-weight: var(--fontWeightSemiBold);
       line-height: 40px;
-      letter-spacing: -0.9px;
       margin: 0;
     }
   }
@@ -280,8 +279,8 @@
   --marketplaceListingAttributeFontStyles {
     font-family: var(--fontFamily);
     font-weight: var(--fontWeightMedium);
-    font-size: 18px;
-    line-height: 32px;
+    font-size: 16px;
+    line-height: 24px;
   }
 
   /* ================ Tabbed navigation font styles ================ */
@@ -294,8 +293,8 @@
 
     @media (--viewportLarge) {
       font-weight: var(--fontWeightSemiBold);
-      font-size: 24px;
-      line-height: 32px;
+      font-size: 20px;
+      line-height: 24px;
     }
   }
 

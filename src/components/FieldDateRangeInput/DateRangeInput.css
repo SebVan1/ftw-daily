@@ -45,7 +45,9 @@
   }
 
   & :global(.DateInput_input) {
+    @apply --marketplaceH4FontStyles;
     padding: 0;
+    margin: 0;
     border: 0;
     background: none;
   }
