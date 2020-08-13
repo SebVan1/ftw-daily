@@ -73,7 +73,7 @@ ul {
 
 legend,
 label {
-  @apply --marketplaceH4FontStyles;
+  @apply --marketplaceH5FontStyles;
   font-weight: var(--fontWeightSemiBold);
   display: block;
   margin-top: 0;

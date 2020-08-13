@@ -51,6 +51,7 @@
 .iconWrapper {
   align-self: baseline;
   margin-right: 8px;
+  line-height: 24px;
 
   /* This follows line-height */
   height: var(--PropertyGroup_lineHeight);
@@ -58,6 +59,7 @@
 
 .labelWrapper {
   display: inline-block;
+  line-height: 24px;
 }
 
 .selectedLabel,
