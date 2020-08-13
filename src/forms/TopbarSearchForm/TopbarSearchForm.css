@@ -113,7 +113,7 @@
   &::placeholder {
     text-overflow: ellipsis;
     overflow-x: hidden;
-    font-weight: var(--fontWeightRegular);
+    font-weight: var(--fontWeightMedium);
     transition: var(--transitionStyleButton);
   }
 
